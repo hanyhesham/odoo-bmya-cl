@@ -39,8 +39,6 @@ Incluye:
 #        'test/bug_1042944.yml'
         ],
     'data': [
-         #'views/sii_menuitem.xml',
-        'wizard/journal_config_wizard_view.xml',
         'data/document_type.xml',
         'security/l10n_cl_invoice_security.xml',
         'data/responsability.xml',
@@ -72,6 +70,8 @@ Incluye:
         'security/ir.model.access.csv',
         'security/l10n_cl_invoice_security.xml',
         'data/res.currency.csv',
+        #'views/sii_menuitem.xml',
+        'wizard/journal_config_wizard_view.xml',
     ],
     'version': '8.1.0.0',
 }
